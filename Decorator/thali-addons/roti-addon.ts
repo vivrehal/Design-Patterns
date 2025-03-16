@@ -1,7 +1,7 @@
 import Thali from "../thali/thali";
-import AddonsDecorater from "./thali-addons";
+import AddonsDecorator from "./thali-addons";
 
-class RotiAddon extends AddonsDecorater {
+class RotiAddon extends AddonsDecorator {
     constructor(thali : Thali) {
         super(thali);
     }

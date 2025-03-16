@@ -42,8 +42,8 @@ npm run pattern:state
 - Factory Pattern
 - Strategy Pattern
 - Observer Pattern
-- Repository Pattern
-- Dependency Injection Pattern
+- State Pattern
+- Decorator Pattern
 
 ## Project Structure
 

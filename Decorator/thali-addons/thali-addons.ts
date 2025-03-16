@@ -1,6 +1,6 @@
 import Thali from "../thali/thali";
 
-abstract class AddonsDecorater extends Thali {
+abstract class AddonsDecorator extends Thali {
     protected thali: Thali;
     constructor(thali: Thali) {
         super();
@@ -8,4 +8,4 @@ abstract class AddonsDecorater extends Thali {
     }
 }
 
-export default AddonsDecorater;
+export default AddonsDecorator;
