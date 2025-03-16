@@ -6,12 +6,12 @@
     "build": "tsc",
     "start": "ts-node --esm",
     "watch": "tsc -w",
-    "factory": "tsx Factory/index.ts",
-    "observer": "tsx Observer/index.ts",
-    "strategy": "tsx Strategy/index.ts",
-    "singleton": "tsx Singleton/index.ts",
-    "decorater": "tsx Decorater/index.ts",
-    "state": "tsx State/index.ts"
+    "pattern:factory": "tsx patterns/Factory/index.ts",
+    "pattern:observer": "tsx patterns/Observer/index.ts",
+    "pattern:strategy": "tsx patterns/Strategy/index.ts",
+    "pattern:singleton": "tsx patterns/Singleton/index.ts",
+    "pattern:decorator": "tsx patterns/Decorator/index.ts",
+    "pattern:state": "tsx patterns/State/index.ts"
   },
   "type": "module",
   "devDependencies": {
