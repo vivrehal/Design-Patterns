@@ -9,7 +9,8 @@
     "factory": "tsx Factory/index.ts",
     "observer": "tsx Observer/index.ts",
     "strategy": "tsx Strategy/index.ts",
-    "singleton": "tsx Singleton/index.ts"
+    "singleton": "tsx Singleton/index.ts",
+    "decorater": "tsx Decorater/index.ts"
   },
   "type": "module",
   "devDependencies": {
