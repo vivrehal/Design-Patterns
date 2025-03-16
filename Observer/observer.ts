@@ -12,4 +12,4 @@ class Observer {
         console.log(`${name} has been notified for ${this.observable.getStock()} `);
     }
 }
-export default Observer;
+export default Observer; 
