@@ -11,6 +11,8 @@ const main = async () => {
     mustang.applyBreak();
     const fortuner = new SuvVehicle();
     fortuner.applyBreak();
+    const xuv500 = new SuvVehicle();
+    xuv500.applyBreak();
 }
 
 main();
