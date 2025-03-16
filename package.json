@@ -10,7 +10,8 @@
     "observer": "tsx Observer/index.ts",
     "strategy": "tsx Strategy/index.ts",
     "singleton": "tsx Singleton/index.ts",
-    "decorater": "tsx Decorater/index.ts"
+    "decorater": "tsx Decorater/index.ts",
+    "state": "tsx State/index.ts"
   },
   "type": "module",
   "devDependencies": {
