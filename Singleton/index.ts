@@ -10,5 +10,6 @@ const main = async () => {
     cache2.print();
     console.log(cache1 === cache2);
     console.log(cache1.get("city"));
+    console.log(cache2.get("name"));
 }
 main();
