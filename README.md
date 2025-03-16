@@ -54,8 +54,8 @@ src/
 │   ├── factory/
 │   ├── strategy/
 │   └── ...
-├── app.module.ts
-└── main.ts
+├── package.json
+└── tsconfig.json
 ```
 
 ## Testing
